@@ -1,6 +1,6 @@
 # Ciencia de datos aplicada al estudio de la Obesidad y otras enfermedades crónicas en Córdoba  
 ## Práctico N°2
-* Análisis y curación *
+Análisis y curación 
 
 Grupo 2
 ➢ Fernando Apaza
